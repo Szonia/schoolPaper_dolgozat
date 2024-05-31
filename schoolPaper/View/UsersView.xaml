@@ -20,7 +20,7 @@
                 <ColumnDefinition Width="5*"></ColumnDefinition>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <TextBlock Text="Information 10" FontSize="25" Foreground="#E6E6FA" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Height="34" Width="192"/>
+            <TextBlock Text="Information 10" FontSize="25" Foreground="#afb42b" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Height="34" Width="192"/>
 
             <TextBlock Grid.Row="1" Text="Item Name:" FontSize="17" VerticalAlignment="Center" HorizontalAlignment="Left" Height="26" Width="94" Margin="30,0,0,0"></TextBlock>
 
